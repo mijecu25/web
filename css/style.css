@@ -1,0 +1,248 @@
+body { 
+	font-family: "Times New Roman", sans-serif; 
+	background-color: #fff;
+	line-height: normal;
+    font-size: 13pt;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+    
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+p {
+	font-size: 100%; 
+	text-align: justify;
+}
+
+figure {
+	display: inline-block;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+table {
+    
+}
+
+a {
+    color: #0000EE; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0000EE;
+    text-decoration: none;
+}
+
+a:visited:hover {
+    color: purple;
+}
+
+table.center {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: "FFFFFF";
+	padding: 1px;
+	border-spacing: 1px;
+    border-collapse: separate;
+}
+
+#team {
+    text-align: center;
+}
+
+#miguelVelez {
+	float: right;
+	margin-bottom: 10px;
+}
+
+#lauraNagel {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.navigationBar {
+	position: relative;
+	width: 10%;
+    right: 0px;
+    vertical-align: top;
+    height: 10px;
+
+}
+
+.navigation {
+	float: right;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 150%;
+	margin-top: 25px;
+	margin-bottom: 0px;
+}
+
+.navigation li {
+	padding-left: 10px;
+	display: inline;
+	list-style-type: none;
+}
+
+.navigation li a {
+	text-decoration: none;
+	color: #1C1C1C;
+}
+
+.navigation li a:hover {
+	color: #585858;
+	border-bottom: 4px solid #0000FF;
+}
+
+.logo {
+	position: relative;
+	width: 10%;
+    left: 2px;
+    vertical-align: top;
+}
+
+#footer {
+	text-align: center;
+}
+
+.list {
+	font-size: 100%;
+}
+
+.pageTitle {
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 0.25em;
+}
+
+
+
+
+
+/**************************************** Products ****************************************/
+.productsTitle {
+    font-size: 150%;
+    font-weight: bold;
+    text-align: left;
+    margin: .25em;
+}
+
+.gameTagLine {
+    text-align: center;
+    margin: 1em;
+}
+
+.gameDescription {
+    text-align: center;
+    margin: 1em;
+}
+
+.githubLink{
+    text-align: center;
+}
+
+#products {
+    text-align: left;
+}
+
+#product {
+    display: inline-block;
+    text-align: left;
+    padding-right: 15px;
+    padding-left: 15px;
+    min-width: 300px; 
+}
+
+.productName {
+    position: relative;
+    top: -22px;
+    font-size: 30px;
+}
+
+
+/**************************************** Unity games ****************************************/
+p.unityFooter {
+    font-size: x-small;
+    text-align: center;
+}
+
+div.content {
+    margin: auto;
+    width: 960px;
+}
+
+div.broken,	div.missing {
+    margin: auto;
+    position: relative;
+    top: 50%;
+    width: 193px;
+}
+
+div.broken a, div.missing a {
+    height: 63px;
+    position: relative;
+    top: -31px;
+}
+
+div.broken img, div.missing img {
+    border-width: 0px;
+}
+
+div.broken {
+	display: none;
+}
+
+div#unityPlayer {
+	cursor: default;
+	height: 600px;
+    width: 960px;
+    margin: auto;
+}
+
+.gameTitle {
+    font-size: 180%;
+    font-weight: bold;
+    text-align: center;
+    margin: .25em;
+}
+
+
+/**************************************** Team member profiles ****************************************/
+.memberName {
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 0.25em;
+}
+
+.memberTagLine {
+    font-size: 120%;
+    margin-bottom: 0.25em;
+}
+
+
+/**************************************** Miguel ****************************************/
+.miguelList {
+	font-size: 100%;
+}
