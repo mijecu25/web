@@ -164,7 +164,8 @@ table.center {
 }
 
 #products {
-    text-align: left;
+    width: 100%;
+    text-align: center;
 }
 
 #product {

@@ -3,4 +3,5 @@
 /.project
 Thumbs.db
 *.ini
+.DS_Store
 /.picasaoriginals
