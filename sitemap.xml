@@ -2,34 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://www.mijecu25.com</loc>
-		<lastmod>2015-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
 	<url>
 		<loc>http://www.mijecu25.com/team.html</loc>
-		<lastmod>20155-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
 	<url>
 		<loc>http://www.mijecu25.com/lauranagel.html</loc>
-		<lastmod>2015-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
 	<url>
 		<loc>http://www.mijecu25.com/miguelvelez.html</loc>
-		<lastmod>20155-09-22</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
 	<url>
 		<loc>http://www.mijecu25.com/products.html</loc>
-		<lastmod>2015-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
     <url>
 		<loc>http://www.mijecu25.com/software/games/web/spaceprotector/spaceprotector.html</loc>
-		<lastmod>20155-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
     <url>
 		<loc>http://www.mijecu25.com/software/games/web/urbantennis/urbantennis.html</loc>
-		<lastmod>2015-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
      <url>
 		<loc>http://www.mijecu25.com/software/games/web/cubiecruiser/cubiecruiser.html</loc>
-		<lastmod>2015-09-11</lastmod>
+		<lastmod>2015-10-16</lastmod>
 	</url>
+    <url>
+        <loc>http://www.mijecu25.com/software/cstats/cstats.html</loc>
+        <lastmod>2015-10-16</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mijecu25.com/software/dsa/dsa.html</loc>
+        <lastmod>2015-10-16</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mijecu25.com/software/personalbackup/personalbackup.html</loc>
+        <lastmod>2015-10-16</lastmod>
+    </url>
 </urlset>
