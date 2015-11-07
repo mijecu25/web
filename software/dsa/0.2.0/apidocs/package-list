@@ -1,0 +1,11 @@
+com.mijecu25.dsa.algorithms.search
+com.mijecu25.dsa.algorithms.search.linear
+com.mijecu25.dsa.algorithms.search.logarithmic
+com.mijecu25.dsa.algorithms.shuffle
+com.mijecu25.dsa.algorithms.shuffle.linear
+com.mijecu25.dsa.algorithms.sort
+com.mijecu25.dsa.algorithms.sort.inefficient
+com.mijecu25.dsa.algorithms.sort.linearlogarithmic
+com.mijecu25.dsa.algorithms.sort.quadratic
+com.mijecu25.dsa.algorithms.swap
+com.mijecu25.dsa.exceptions
