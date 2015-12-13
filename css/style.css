@@ -1,3 +1,30 @@
+figure {
+	display: inline-block;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#team {
+    text-align: center;
+}
+
+#memberPicture {
+	float: right;
+	margin-bottom: 10px;
+}
+
+#lauraNagel {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.list {
+	font-size: 100%;
+}
+
+
+
+
 body { 
 	font-family: "Times New Roman", sans-serif; 
 	background-color: #fff;
@@ -5,39 +32,9 @@ body {
     font-size: 13pt;
 }
 
-h1 {
-
-}
-
-h2 {
-
-}
-
-h3 {
-    
-}
-
-h4 {
-
-}
-
-h5 {
-
-}
-
 p {
 	font-size: 100%; 
 	text-align: justify;
-}
-
-figure {
-	display: inline-block;
-	margin-left: 10%;
-	margin-right: 10%;
-}
-
-table {
-    
 }
 
 a {
@@ -60,38 +57,41 @@ a:visited:hover {
 }
 
 table.center {
-	margin-right: auto;
+    margin-right: auto;
 	margin-left: auto;
 	background-color: "FFFFFF";
 	padding: 1px;
 	border-spacing: 1px;
-    border-collapse: separate;
+    border-collapse: separate;    
 }
 
-#team {
-    text-align: center;
+.main-table {
+    border: 0;
+    width: 90%;
+    
 }
 
-#memberPicture {
-	float: right;
-	margin-bottom: 10px;
+.header-table {
+    width: 100%;
 }
 
-#lauraNagel {
-	float: left;
-	margin-bottom: 10px;
+.body-table {
+    width: 100%;
 }
 
-.navigationBar {
-	position: relative;
-	width: 10%;
-    right: 0px;
+.logo {
+	width: 300px;
+    height: auto;
+    left: 2px;
     vertical-align: top;
-    height: 10px;
-
 }
 
-.navigation {
+#header-mijecu25 {
+    height: 50px;
+    width: 300px;
+}
+
+.navigation-items {
 	float: right;
 	padding-right: 20px;
 	padding-left: 20px;
@@ -100,46 +100,53 @@ table.center {
 	margin-bottom: 0px;
 }
 
-.navigation li {
-	padding-left: 10px;
+.navigation-items li {
+	padding-left: 5px;
+    padding-right: 5px;
 	display: inline;
 	list-style-type: none;
 }
 
-.navigation li a {
+.navigation-items li a {
 	text-decoration: none;
 	color: #1C1C1C;
 }
 
-.navigation li a:hover {
+.navigation-items li a:hover {
 	color: #585858;
 	border-bottom: 4px solid #0000FF;
 }
 
-.logo {
-	position: relative;
-	width: 10%;
-    left: 2px;
+.landing-page {
     vertical-align: top;
+    width: 420px;
 }
 
-#footer {
-	text-align: center;
-}
-
-.list {
-	font-size: 100%;
-}
-
-.pageTitle {
+.landing-page-title {
     font-weight: bold;
     font-size: 200%;
     margin-bottom: 0.25em;
 }
 
+.landing-page-description {
+    font-size: 100%;
+}
 
+.landing-page-image-container {
+    text-align: right;
+    width: 420px;
+    height: auto;
+}
 
+#landing-page-image {
+    text-align: right;
+    height: 310px;
+    width: 500px;
+}
 
+.footer {
+	text-align: center;
+}
 
 /**************************************** Products ****************************************/
 .productsTitle {
@@ -150,8 +157,8 @@ table.center {
 }
 
 .gameTagLine {
-    text-align: center;
-    margin: 1em;
+    text-align: left;
+    margin: .5em;
 }
 
 .gameDescription {
@@ -160,7 +167,8 @@ table.center {
 }
 
 .githubLink{
-    text-align: center;
+    text-align: left;
+    margin-left: .5em;
 }
 
 #products {
@@ -225,7 +233,7 @@ div#unityPlayer {
 .gameTitle {
     font-size: 180%;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     margin: .25em;
 }
 
