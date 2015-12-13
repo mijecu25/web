@@ -12,66 +12,64 @@
     </head>
 
     <body>
-        <table class="center" border="0" width="90%">
+        <table class="main-table center">
             <tr>
                 <td>
-                    <table class="center" width="100%">
+                    <table class="header-table center">
                         <tr>
 
                             <td class="logo">
-                                <a href="/"><img src="../images/mijecu25.png" height="50" width="300" alt="Mijecu25"></a>
+                                <a href="/"><img id="header-mijecu25" src="../images/mijecu25.png" alt="Mijecu25"></a>
                             </td>
 
-                            <td class="navigationBar">
-                                <ul class="navigation">
+                            <td>
+                                <ul class="navigation-items">
                                     <li><a href="/">Home</a></li> 
-                                    <li><a href="/products/">Products</a></li>
+                                    <li><a href="/products">Products</a></li>
                                     <li><a href="/team/">Team</a></li>
-                                    <!-- <li><a href="/">Contact</a></li>  -->
+                                    <li><a href="mailto:contact@mijecu25.com">Contact</a></li>  
                                 </ul>
                             </td>
                         </tr>
                     </table>
-
+                    
                     <hr/>
 
-                    <table class="center" width="100%">
+                    <table class="body-table center">
                         <tr>
-                            <td align="left" valign="top">
-                                <div class="pageTitle">
-
-<!--                                    TODO change this to a div to not have that much space between the above line and the text-->
+                            <td>
+                                <div class="landing-page-title">
                                     Meet our team!
                                 </div>
-                                
-
-                                <div id="team">
-                                    <figure>
-                                        <a href="../lauranagel">
-                                            <img src="../images/lauranagel.jpg" height="160" width="160" alt="Laura Nagel" id="lauraNagel" />        
-                                            <figcaption>Laura Nagel</figcaption>
-                                        </a>
-                                    </figure>
-
-
-                                    <figure>
-                                        <a href="../miguelvelez">
-                                            <img src="../images/miguelvelez.jpg" height="160" width="160" alt="Miguel Velez" id="miguelVelez" />
-                                            <figcaption>Miguel Velez</figcaption>
-                                        </a>
-                                    </figure>
-                                </div>
-                                
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="team">
+                                <figure>
+                                    <a href="../lauranagel">
+                                        <img id="laura-nagel-photo" class="team-member-photo" src="../images/lauranagel.jpg" alt="Laura Nagel"/>        
+                                        <figcaption>Laura Nagel</figcaption>
+                                    </a>
+                                </figure>
+                            </td>
+                            
+                            <td class="team">
+                                <figure>
+                                    <a href="../miguelvelez">
+                                        <img id="miguel-velez-photo" class="team-member-photo" src="../images/miguelvelez.jpg" alt="Miguel Velez"/>
+                                        <figcaption>Miguel Velez</figcaption>
+                                    </a>
+                                </figure>
                             </td>
                         </tr>
                     </table>
 
                     <hr/>
 
-                    <footer>
-                        <div id="footer">
-                                Copyright &#169; 2015 Mijecu25 &nbsp;&nbsp;&nbsp; All rights reserved
-                        </div>
+                    <footer class="footer">
+                        Copyright &#169; 2015 Mijecu25 &nbsp;&nbsp;&nbsp; All rights reserved
+                
                     </footer>
                     
                 </td>

@@ -1,20 +1,5 @@
-figure {
-	display: inline-block;
-	margin-left: 10%;
-	margin-right: 10%;
-}
-
-#team {
-    text-align: center;
-}
-
 #memberPicture {
 	float: right;
-	margin-bottom: 10px;
-}
-
-#lauraNagel {
-	float: left;
 	margin-bottom: 10px;
 }
 
@@ -136,6 +121,7 @@ table.center {
     text-align: right;
     width: 420px;
     height: auto;
+    padding-left: 10px;
 }
 
 #landing-page-image {
@@ -146,6 +132,25 @@ table.center {
 
 .footer {
 	text-align: center;
+}
+
+
+/**************************************** Team ****************************************/
+
+figure {
+	display: inline-block;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.team {
+    text-align: center;
+}
+
+.team-member-photo {
+    height: 160px;
+    width: 160px;
+	margin-bottom: 10px;
 }
 
 /**************************************** Products ****************************************/
