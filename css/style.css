@@ -136,6 +136,11 @@ table.center {
 	text-align: center;
 }
 
+.spaced-list {
+	font-size: 100%;
+    line-height: 130%;
+}
+
 
 /**************************************** Team ****************************************/
 
@@ -155,6 +160,7 @@ figure {
 	margin-bottom: 10px;
 }
 
+`
 /**************************************** Products ****************************************/
 .products-landing-page-title {
     font-size: 150%;
@@ -183,30 +189,44 @@ figure {
 }
 
 
-
-
-
-
-
-.gameTagLine {
-    text-align: left;
-    margin: .5em;
+/**************************************** Team member profiles ****************************************/
+.member-picture-container {
+    text-align: right;
+    vertical-align: top;
+    width: 300px;
 }
 
-.gameDescription {
-    text-align: center;
-    margin: 1em;
+.member-picture {
+    height: 160px;
+    width: 160px; 
 }
 
-.githubLink{
-    text-align: left;
-    margin-left: .5em;
+.member-name {
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 0.25em;
 }
 
-#products {
-    width: 100%;
-    text-align: center;
+.member-tag-line {
+    font-size: 120%;
+    margin-bottom: 0.25em;
 }
+
+
+/**************************************** Images ****************************************/
+
+.linkedin-image {
+    height: 32px;
+    width: 32px;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -260,21 +280,24 @@ div#unityPlayer {
 }
 
 
-/**************************************** Team member profiles ****************************************/
-.memberName {
-    font-weight: bold;
-    font-size: 200%;
-    margin-bottom: 0.25em;
+
+/********* Unknown ************/
+.gameTagLine {
+    text-align: left;
+    margin: .5em;
 }
 
-.memberTagLine {
-    font-size: 120%;
-    margin-bottom: 0.25em;
+.gameDescription {
+    text-align: center;
+    margin: 1em;
 }
 
+.githubLink{
+    text-align: left;
+    margin-left: .5em;
+}
 
-/**************************************** Miguel ****************************************/
-.miguelList {
-	font-size: 100%;
-    line-height: 130%;
+#products {
+    width: 100%;
+    text-align: center;
 }
