@@ -3,7 +3,8 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>Urban Tennis | Web</title>
-        <meta name="description" content="Protect the universe from evil."/>
+        <meta name="description" content="Game, Set, Match!"/>
+        <link rel="stylesheet" type="text/css" href="../../../../css/style.css">
 		<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
 		<script type="text/javascript">
 		<!--
@@ -57,46 +58,48 @@
 						break;
 					}
 				});
-				u.initPlugin(jQuery("#unityPlayer")[0], "urbantennis.unity3d");
+				u.initPlugin(jQuery("#unityPlayer")[0], "UrbanTennis.unity3d");
 			});
 		-->
 		</script>
-        
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
-	</head>
-        <body>
-            <table class="center" border="0" width="75%">
-                <tr>
-                    <td>
-                        <table class="center" width="100%">
-                            <tr>
-                                <td class="logo">
-                                    <a href="/"><img src="/images/mijecu25.png" height="50" width="300" alt="Mijecu25"></a>
-                                </td>
+	
+    </head>
+    
+    <body>
+        <table class="main-table center">
+            <tr>
+                <td>
+                    <table class="header-table center">
+                        <tr>
+                            <td class="logo">
+                                <a href="/"><img src="../../../../images/mijecu25.png" class="header-mijecu25" alt="Mijecu25"></a>
+                            </td>
 
-                                <td class="navigationBar">
-                                    <ul class="navigation">
-                                        <li><a href="/">Home</a></li> 
-                                        <li><a href="/products/">Products</a></li>
-                                        <li><a href="/team/">Team</a></li>
-                                        <!-- <li><a href="/">Contact</a></li>  -->
-                                    </ul>
-                                </td>
-                            </tr>
-                        </table>
+                            <td>
+                                <ul class="navigation-items">
+                                    <li><a href="/">Home</a></li> 
+                                    <li><a href="/products">Products</a></li>
+                                    <li><a href="/team/">Team</a></li>
+                                    <li><a href="mailto:contact@mijecu25.com">Contact</a></li>  
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
 
-                        <hr/>
+                    <hr/>
 
-                        <table class="center" width="100%">
-                            <tr>
-                                <div class="gameTitle">
-                                    Urban Tennis
+                    <table class="body-table center">
+                        <tr>
+                            <td>
+                                <div class="game-title">
+                                    Space Protector
                                 </div>
                                 
-                                <div class="gameTagLine">
-                                    Game, Set, Match!
-                                </div>
-
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td> 
                                 <div class="content">
                                     <div id="unityPlayer">
                                         <div class="missing">
@@ -111,22 +114,25 @@
                                         </div>
                                     </div>
                                 </div>
-                                <p class="unityFooter">&laquo; created with <a href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</p>
-                                
-                                <div class="gameDescription">
+                                <p class="footer">&laquo; created with <a href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</p>                                  </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <div class="game-description">
                                     Move your racket with the RIGHT and LEFT arrow keys. Serve with Spacebar. Grab the shock absorbers for "power ups" but beware of the SAWINATOR!!!!
-                                </div>                            
-                                
-                            </tr>
+                                </div>                                
+                            </td>
+                        </tr>
 
-                        </table>
+                    </table>
 
-                        <hr/>
-                        <footer>
-                            <div id="footer">
-                                Copyright &#169; 2015 Mijecu25 &nbsp;&nbsp;&nbsp; All rights reserved
-                            </div>
-                        </footer> 
+                    <hr/>
+
+                    <footer class="footer">
+                        Copyright &#169; 2015 Mijecu25 &nbsp;&nbsp;&nbsp; All rights reserved
+                
+                    </footer>
 
                 </td>
             </tr>
