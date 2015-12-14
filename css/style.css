@@ -160,7 +160,7 @@ figure {
 	margin-bottom: 10px;
 }
 
-`
+
 /**************************************** Products ****************************************/
 .products-landing-page-title {
     font-size: 150%;
@@ -185,7 +185,7 @@ figure {
 .product-name {
     position: relative;
     top: -22px;
-    font-size: 30px;
+    font-size: 150%;
 }
 
 
