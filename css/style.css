@@ -207,22 +207,17 @@ figure {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 /**************************************** Unity games ****************************************/
-p.unityFooter {
+p.header {
+    font-size: small;
+}
+
+p.header span {
+    font-weight: bold;
+}
+
+p.footer {
     font-size: x-small;
-    text-align: center;
 }
 
 div.content {
@@ -230,7 +225,7 @@ div.content {
     width: 960px;
 }
 
-div.broken,	div.missing {
+div.broken, div.missing {
     margin: auto;
     position: relative;
     top: 50%;
@@ -248,42 +243,25 @@ div.broken img, div.missing img {
 }
 
 div.broken {
-	display: none;
+    display: none;
 }
 
 div#unityPlayer {
-	cursor: default;
-	height: 600px;
+    cursor: default;
+    height: 600px;
     width: 960px;
-    margin: auto;
 }
 
-.gameTitle {
+
+/**************************************** Unity Web Games ****************************************/
+.game-title {
     font-size: 180%;
     font-weight: bold;
-    text-align: left;
+    text-align: center;
     margin: .25em;
 }
 
-
-
-/********* Unknown ************/
-.gameTagLine {
-    text-align: left;
-    margin: .5em;
-}
-
-.gameDescription {
+.game-description {
     text-align: center;
     margin: 1em;
-}
-
-.githubLink{
-    text-align: left;
-    margin-left: .5em;
-}
-
-#products {
-    width: 100%;
-    text-align: center;
 }

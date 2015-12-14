@@ -4,6 +4,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>Cubie Cruiser | Web</title>
         <meta name="description" content="Protect the universe from evil."/>
+        <link rel="stylesheet" type="text/css" href="../../../../css/style.css">
 		<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
 		<script type="text/javascript">
 		<!--
@@ -57,50 +58,48 @@
 						break;
 					}
 				});
-				u.initPlugin(jQuery("#unityPlayer")[0], "cubiecruiser.unity3d");
+				u.initPlugin(jQuery("#unityPlayer")[0], "CubieCruiser.unity3d");
 			});
 		-->
 		</script>
-        
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
-	</head>
-        <body>
-            <table class="center" border="0" width="75%">
-                <tr>
-                    <td>
-                        <table class="center" width="100%">
-                            <tr>
-                                <td class="logo">
-                                    <a href="/"><img src="/images/mijecu25.png" height="50" width="300" alt="Mijecu25"></a>
-                                </td>
+	
+    </head>
+    
+    <body>
+        <table class="main-table center">
+            <tr>
+                <td>
+                    <table class="header-table center">
+                        <tr>
+                            <td class="logo">
+                                <a href="/"><img src="../../../../images/mijecu25.png" class="header-mijecu25" alt="Mijecu25"></a>
+                            </td>
 
-                                <td class="navigationBar">
-                                    <ul class="navigation">
-                                        <li><a href="/">Home</a></li> 
-                                        <li><a href="/products/">Products</a></li>
-                                        <li><a href="/team/">Team</a></li>
-                                        <!-- <li><a href="/">Contact</a></li>  -->
-                                    </ul>
-                                </td>
-                            </tr>
-                        </table>
+                            <td>
+                                <ul class="navigation-items">
+                                    <li><a href="/">Home</a></li> 
+                                    <li><a href="/products">Products</a></li>
+                                    <li><a href="/team/">Team</a></li>
+                                    <li><a href="mailto:contact@mijecu25.com">Contact</a></li>  
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
 
-                        <hr/>
+                    <hr/>
 
-                        <table class="center" width="100%">
-                            <tr>
-                                <div class="gameTitle">
+                    <table class="body-table center">
+                        <tr>
+                            <td>
+                                <div class="game-title">
                                     Cubie Cruiser
                                 </div>
                                 
-                                <div class="gameTagLine">
-                                    Help Cubie escape the claws of the cruel Sawinator!
-                                    
-                                    <br>
-                                    <br>
-                                    Download from <a href="https://play.google.com/store/apps/details?id=com.mijecu25.cubiecruiser">Google Play</a>   
-                                </div>
-
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td> 
                                 <div class="content">
                                     <div id="unityPlayer">
                                         <div class="missing">
@@ -115,27 +114,25 @@
                                         </div>
                                     </div>
                                 </div>
-                                <p class="unityFooter">&laquo; created with <a href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</p>
-                                
-                                <div class="gameDescription">
+                                <p class="footer">&laquo; created with <a href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</p>                                  </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <div class="game-description">
                                 	Use the LEFT and RIGHT arrow keys to move Cubie and avoid the Sawinators. 
-                                </div>
-                                <div class="githubLink">
-                                    <a href="https://github.com/mijecu25/cubie-cruiser">Download the code</a>   
-                                </div>
-                                
-                                
-                            </tr>
+                                </div>                                
+                            </td>
+                        </tr>
 
-                        </table>
+                    </table>
 
-                        <hr/>
+                    <hr/>
 
-                        <footer>
-                            <div id="footer">
-                                Copyright &#169; 2015 Mijecu25 &nbsp;&nbsp;&nbsp; All rights reserved
-                            </div>
-                        </footer> 
+                    <footer class="footer">
+                        Copyright &#169; 2015 Mijecu25 &nbsp;&nbsp;&nbsp; All rights reserved
+                
+                    </footer>
 
                 </td>
             </tr>
