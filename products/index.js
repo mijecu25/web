@@ -1,5 +1,6 @@
 window.onload = function () {
-    var products = ["sqlplus", 
+    var products = ["messages",
+                    "sqlplus", 
                     "cstats", 
                     "dsa", 
                     "Cubie Cruiser", 
@@ -7,7 +8,8 @@ window.onload = function () {
                     "Personal Backup", 
                     "Urban Tennis", 
                     "Unity GDM"];
-    var image = ["../images/sqlplus.png", 
+    var image = ["../images/messages.png",
+                 "../images/sqlplus.png", 
                  "../images/cstats.png", 
                  "../images/dsa.png",
                  "../images/cubie-cruiser-icon-512.png", 
@@ -15,7 +17,8 @@ window.onload = function () {
                  "../images/backup.png",
                  "../images/urbanTennis.png", 
                  "../images/unity-manual-64.png"];
-    var alt = ["sqlplus",
+    var alt = ["messages",
+               "sqlplus",
                "cstats",
                "dsa",
                "Cubie Cruiser",
@@ -23,7 +26,8 @@ window.onload = function () {
                "Personal Backup",
                "Urban Tennis",
                "Unity GDM"];
-    var repo = ["../software/sqlplus/",
+    var repo = ["../software/messages",
+                "../software/sqlplus/",
                 "../software/cstats",
                 "../software/dsa/", 
                 "../software/games/cubiecruiser.html",
