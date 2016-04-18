@@ -56,7 +56,7 @@ window.onload = function () {
         // Set the link
         a.setAttribute("href", repo[i])
         // Set the name of the product
-        a.innerHTML = products[i];
+        a.innerHTML = " " + products[i];
 
         // Create a span element
         var span = document.createElement("span");
