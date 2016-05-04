@@ -56,7 +56,7 @@ window.onload = function () {
         // Set the link
         a.setAttribute("href", repo[i])
         // Set the name of the product
-        a.innerHTML = " " + products[i];
+        a.innerHTML = products[i];
 
         // Create a span element
         var span = document.createElement("span");
@@ -73,6 +73,8 @@ window.onload = function () {
         img.setAttribute("src", image[i]);
         // Set the text for the image
         img.setAttribute("alt", alt[i]);
+        // Add a padding to the right of the image
+        img.setAttribute("style", "padding-right: 5px");
 
         // Create an h3 element
         var h3 = document.createElement("h3");
