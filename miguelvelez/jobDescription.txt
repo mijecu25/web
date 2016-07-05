@@ -1,0 +1,41 @@
+- Mijecu25: Lead Developer and Designer
+    Focused on learning new technologies and programming languages. I developed both open-source and private projects that allowed me to keep up to date with new software. 
+
+- UST: Undergraduate Student Researcher
+    Worked under the supervision of a professor on querying databases more efficiently using Bitmap Index compression techniques. I extended WAH, EWAH, and VAL compression techniques to use metadata of the compressed columns to improve querying speed. I was able to enhance my analyzing, recognizing problems, debugging, and programming skills.    
+
+- UST: Note Taker COJO 105
+    Helped a student in Communications in the Workplace by taking notes of the class.
+
+- Sportradar US with TriCom: Application Developer/Software Engineer
+    Built a Ruby monitoring application to parse and build Formula 1 feeds.
+
+- UST: Computer Consultant, Computer & Information Sciences Department
+    Staffed a computer lab and assisted students and faculty with computer hardware and software focusing on Java, C, JavaScript, CSS, and HTML. During the summer of 2013, I replaced, installed hardware, software, and computer images on more than 200 computers. Along side this project, I independently learned C to assist students with their learning. During this time, I improved working under pressure and quick and independent learning of computer technologies. I also progressed on my problem solving, analyzing, recognizing problems, debugging, and programming skills.
+
+- MIT: Research Intern
+    Implemented some features that made the Sketch language more expressive and the engine more powerful for developers. Specifically, developers are now able to use a construct to indicate the synthesizer to use any of the variables, of a specific type, within scope, to derive the missing code. We also included support for lambda expressions, thus providing a lightweight method to create a function within another function that can be used locally or passed to a high-order function. Finally, we also added support for automatic casting of expressions in high-order function calls, which allows the programmer to pass an expression where a function parameter is expected, and the synthesizer then casts it as a lambda expression. All of these features made the Sketch engine easier to use through its enhanced expressiveness and increased the domain of applications that programmers can develop with this engine. 
+
+- Sportradar US with Tricom: Jr. Application Developer
+    Implemented an application to parse and build MLB feeds using Ruby.
+
+- Valtira: Cloud Developer Intern
+    Implemented Amazon Web Services Data Pipeline and Elastic MapReduce services to analyze log file from our clients. I also developed test cases and triggers using APEX programming for our clients that use Salesforce and the Valtira CRM. Along side this project, I studied for the Salesforce Admin exam. Further I implemented and maintained a RESTful web application using AngularJS, Java Servlets and a MySQL database.
+
+- UST: Undergraduate Student Researcher
+   During my first research experience at the undergraduate level, I worked on the project: "Extending SMILES to Encode Reaction Mechanisms" through the University of St. Thomas Collaborative Inquiry Grant. 
+
+- UST: Note taker CISC 210
+    Helped a student in Information Security by taking notes of the class.
+
+- UST: President, STAR Programming Board
+   As the President of the University of St. Thomas Activities and Recreation Programming Board, I oversaw, guided, and motivated 15 student interns to hold daily events for more than 4000 undergraduate students. During my time as President, STAR attained the best “Welcome Week” event quality and attendance in the last 5 years. I also attended various leadership conferences in the Twin Cities area to improve my leadership skills as well as communicate with other students leaders of other universities to share ideas and experiences. I was also a member of the University of St. Thomas Beverage Committee Fund responsible of assigning $20000 per year to various University of St. Thomas community proposals for durable goods. During this time, I improved my professionalism, independent work, and verbal and written communication skills in addition to learning to prioritize, multitask, supervise others, run an effective meeting, set goals, and be a good motivator and leader to accomplish objectives. 
+
+- UST: Saturday Night Programming Intern, STAR Programming Board
+   With an attendance of over 2000 unique students during the year, I planned, implemented, oversaw, and evaluated the "Tommies After Dark" program, which occured every Saturday night from 10:00 p.m. to 12:00 a.m. Along with another intern, we managed responsibly a budget of over $20000 per semester as well as created the "Mystery Bus" event which became a tradition of this program. I also worked with the STAR Advertising and Community Relations interns to publicize our weekly events. During this time I developed my ability to work as a team, be creative, and plan ahead. 
+
+- UST: Spanish Tutor, Classical & Modern Languages Department
+    Helped undergraduate students taking Spanish courses error probe and improve their vocabulary, syntax, and grammar. I also conducted daily conversation with students in advance courses to develop and improved their pronunciation and oral expression.
+
+- UST: Food Service Worker, Main Cafeteria
+    Worked at the main campus cafeteria where I developed customer service skills, responsibility, communication skills, multitasking, and self-motivation.
