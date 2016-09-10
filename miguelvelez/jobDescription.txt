@@ -39,3 +39,51 @@
 
 - UST: Food Service Worker, Main Cafeteria
     Worked at the main campus cafeteria where I developed customer service skills, responsibility, communication skills, multitasking, and self-motivation.
+
+########## Projects
+
+- Radar360 ETL: Developed an ETL application using Ruby that provided data for the NFL Radar360 research tool.
+
+- Sketch:  A synthesis-enabled language that allows programmers to write programs with holes and then rely on constraint-based synthesis to discover the missing code.
+
+- stats: cstats generates information about your file directory.
+
+- dsa: Java library of data structures and algorithms.
+
+- Gossip Protocol: Implemented an anonymous Gossip Protocol system using UDP messages.
+
+- Cubie Cruiser: Help Cubie escape the claws of the cruel Sawinator! Score points by surviving as long as possible avoiding the never-ending, reappearing Sawinator before it destroys you in a spectacular fashion.
+
+- Space Protector: Developed a Unity game using C#. This allowed me to improve my Unity skills and how to develop abstract behavior that can be used in other projects.
+
+- Verbose and Succinct WAH metadata files: Worked on querying databases more efficiently using Bitmap Index compression techniques. I extended the Word-Aligned Hybrid (WAH) compression techniques to use two types of metadata that described the compressed columns to improve querying speed. I was able to enhance my analyzing, recognizing problems, debugging, and programming skills.
+
+- College Muscle Movers Scheduling Tool: This is a RESTful web application for one of our clients. The client is a moving company that requires a scheduling application for their users to select times when they need workers to help them move. I focus on developing and maintaining Java servlets that perform CRUD operations. I also maintain the SQL database and help develop the front-end using HTML, JavaScript, and AngularJS.
+
+- Urban Tennis: First full game published for the web.
+
+- SMORES: In this combined Computer Science and Chemistry project, I implemented a programming language that analyzed user input related to organic chemistry to better understand organic chemical reactions. The new syntax was the Simple Mechanism Of Reaction Encoding System (SMORES) pattern, developed by Dr. Gittins and Dr. Sawin. I improved my Java skills in project design, inheritance, polymorphism, exceptions, parsing, problem solving, and general programming. This project did not only prepared me to do research in graduate school, but it also exposed me to work with other fields and sciences using my skills and knowledge to facilitate the work and needs of other people.
+
+- Log Analyzer: In this project, I developed a Java program to analyze log files from websites of our clients. I obtained statistics about location, popularity, referer, and many more. The technologies used on this project were Hadoop Map Reduce, Cascading framework, Amazon Web Services DataPipeline, and HDFS.
+
+######### Honors
+
+- MSRP Research Internship at MIT: MSRP, an institutional effort that began in 1986, facilitates the involvement of talented students in research – particularly those individuals who are underrepresented in these fields. This summer program seeks to identify students from around the country who could benefit from spending a summer on MIT's campus, working in a research laboratory under the tutelage of experienced academics. Our core mission is to promote the value of graduate education; improve the research enterprise through increased diversity; and prepare and recruit the best and brightest for graduate education at MIT. Since its inception, MSRP has hosted over 750 undergraduate interns from schools across the country.
+
+- Summa Cum Laude: A student whose overall cumulative grade point average and St. Thomas grade point average are both 3.90 or higher and who is judged to be outstanding by members of an Honors Oral Examination Committee receives the baccalaureate degree summa cum laude.
+
+- CCSC:MW 1st Place Student Posters & Showcase: The Discovery track is for undergraduate scholarship that produces new knowledge.
+
+- Student Travel Grant: The Grants and Research Office offers a limited number of travel grants for undergraduate students who wish to present at a scholarly conference.
+
+Students may apply for up to $500 plus an additional $250 to match funding obtained from their academic departments.  Students may receive funding for more than one trip per academic year but will received no more than a total of $750 per academic year  from the Student Travel Grant Program.
+
+- Collaborative Inquiry Grant: Collaborative Inquiry Grants offer students financial support, a stipend of $1,000 for the semester, to work closely with a faculty member outside of the classroom on collaborative projects during Spring Semester or Fall Semester.  Collaborative Inquiry projects provide an intensive educational experience for the student that complements, enhances, or even surpasses the traditional classroom.
+
+Student grantees are considered the primary collaborator-learners, with the faculty member as a collaborator-advisor. The main goal of collaborative inquiry is to increase students' research and higher-order thinking skills.
+
+Student grantees receive a stipend of $1,000 for the semester.  Faculty collaborators receive $500.
+
+- Bev and Pat Flaherty Scholarship: Degree seeking international student with high academic achievement who has financial need.
+
+- International Student Leadership Scholarship: For outstanding leadership in promoting the integration of international students and international awareness at St. Thomas.
