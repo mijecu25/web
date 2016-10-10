@@ -45,11 +45,11 @@ table.center {
 }
 
 .header-table {
-    width: 100%;
+    width: 80%;
 }
 
 .body-table {
-    width: 100%;
+    width: 80%;
 }
 
 .logo {
@@ -184,8 +184,8 @@ figure {
 }
 
 .member-picture {
-    height: 160px;
-    width: 160px; 
+    height: 240px;
+    width: 240px; 
 }
 
 .member-name {
