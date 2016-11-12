@@ -146,6 +146,11 @@ figure {
 	margin-bottom: 10px;
 }
 
+.team-member-photo-miguel {
+    height: 220px;
+    width: 200px;
+	margin-bottom: 10px;    
+}
 
 /**************************************** Products ****************************************/
 .products-landing-page-title {
@@ -185,6 +190,11 @@ figure {
 
 .member-picture {
     height: 240px;
+    width: 240px; 
+}
+
+.member-picture-miguel {
+    height: 264px;
     width: 240px; 
 }
 
